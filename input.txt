@@ -1,0 +1,1 @@
+This is the example code which is written under input.txt
