@@ -9,9 +9,9 @@ struct Student {
 
 int main() {
     struct Student students[3] = {
-        {1, "Aditya", 99.5},
-        {2, "Vikalp", 90.0},
-        {3, "Sudhakar", 78.0}
+        {1, "Aman", 99.5},
+        {2, "Aditya", 90.0},
+        {3, "Priyam", 78.0}
     };
 
     printf("ID\tName\t\tMarks\n");
